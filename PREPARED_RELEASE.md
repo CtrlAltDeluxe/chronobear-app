@@ -1,4 +1,4 @@
-# Prepared ChronoBear 0.0.49
+# Prepared ChronoBear 0.0.50
 
 This checkout contains the new landing page, versioned executable, full update ZIP, and update.json. It has not been committed or pushed by the staging script.
 

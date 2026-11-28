@@ -1,8 +1,8 @@
 {
-  "version": "0.0.49",
-  "sha256": "03796d3bb004f21a9ff59ae0d23b950a284797f3cc6f0cfe17bffb847089637c",
+  "commitId": "e82ffe855b5c7d324d36e136549c876b74139e4a",
+  "packageUrl": "https://ctrlaltdeluxe.github.io/chronobear-app/ChronoBear_0.0.50_e82ffe855b5c7d324d36e136549c876b74139e4a_full.zip",
+  "sha256": "2a67905a1892f1388e8e5ffbccac7c80b1b9f104cab9e0c5b4d007781a075f72",
+  "version": "0.0.50",
   "kind": "full",
-  "wrapperVersion": "0.0.49",
-  "packageUrl": "https://ctrlaltdeluxe.github.io/chronobear-app/ChronoBear_0.0.49_f41324cc390fc853df47c78ee5953945dde62464_full.zip",
-  "commitId": "f41324cc390fc853df47c78ee5953945dde62464"
+  "wrapperVersion": "0.0.50"
 }
